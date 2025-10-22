@@ -1,0 +1,440 @@
+Job Title,Job Location,Job Time Zone,Consultant Name,Visa,Consultant Location,Consultant Time Zone,Salary ($1000),Relocation,Submission Date,Joining Date,Interview Status,Hired
+SAP,"Austin, TX ",CST,Asghar N. Siddiqui,H1B,"Bellmore, NY",EST,$110K,Yes,2023-01-02,2023-01-26,Cleared,Y
+Big Data,"Dallas, TX ",CST,Raman P Shanthirangam,US Citizen,"Coppell, Texas",CST,$170K,No,2023-01-03,2023-01-29,Cleared,Y
+DevOps Engineer,"San Jose, CA",PST,Raghuveer Bapuram,Green Card,NewJersey,EST,$160K,Yes,2023-01-04,2023-01-27,Cleared,N
+DevOps Engineer,"New York City, NY",EST,Peter R. Genz,US Citizen,"Freehold, NJ",EST,$180K,No,2023-01-05,2023-01-27,Cleared,Y
+Big Data,"Austin, TX ",CST,Mr. Anand K Chiluka,H1B,"Milpitas, CA",PST,$140K,Yes,2023-01-06,2023-01-30,Cleared,Y
+SAP,"Marysville, OH",EST,Purva Patel,US Citizen,"Marysville, OH",EST,$130K,No,2023-01-09,2023-01-31,Cleared,N
+DevOps Engineer,"New Jersey, NJ ",EST,Thomas Aydin,US Citizen,"Lindenhurst, NY",EST,$130K,Yes,2023-01-10,2023-01-31,Cleared,Y
+Big Data,NYC,EST,Thomas Raju,US Citizen,"Cherry Hill, NJ",EST,$125K,No,2023-01-11,2023-01-02,Cleared,Y
+Java,"Redmond, WA",PST,Raghu Ram,H1B,"Laurel, Maryland",EST,$100K,Yes,2023-01-12,2023-01-02,Cleared,Y
+DevOps Engineer,"Austin, TX",CST,Ulfred Kumar,GC EAS,"NYC, NY",EST,$120K,Yes,2023-01-23,2023-02-16,Cleared,Y
+Big Data,"Dallas, TX",CST,Uzzwal Kumar Chowdhury,GC EAD,"NYC, NY",EST,$120K,Yes,2023-01-26,2023-02-27,Cleared,N
+SAP,"New York City, NY",EST,Mark Nielsen,US Citizen,"The Woodlands, TX",CST,$110K,Yes,2023-02-01,2023-09-03,Cleared,N
+Dot Net,"Dallas, TX",CST,DAVID EARL WINTERS,US Citizen,"Rowlett, TX",CST,$100K,No,2023-02-02,2023-03-13,Cleared,N
+ETL,"Dallas, TX",CST,Lin Yao,US Citizen,"Flower Mound, TX",CST,$115K,No,2023-02-03,2023-03-14,Cleared,Y
+Dot Net,"New York City, NY",EST,Rajarun Sadasivan,H1B,Fairfax VA,EST,$100K,Yes,2023-02-06,2023-03-20,Cleared,Y
+Dot Net,"Newark, NJ",EST,"Lee, Chiang-Fwu",US Citizen,"Rockaway, NJ",EST,$115K,Yes,2023-02-07,2023-03-21,Cleared,Y
+Oracle EBS,"Dallas, TX",CST,Raju Paulose,GC,"Dallas, TX",CST,$140K,Yes,2023-02-08,2023-03-24,Cleared,Y
+Oracle EBS,"Richardson, TX",CST,Venkata Arudra,H1B,"Plano, TX",CST,$130K,Yes,2023-02-09,2023-03-27,Cleared,N
+Oracle EBS,"Houston, TX",CST,Sundeep Dheer,GC,"Katy, TX",CST,$170K,Yes,2023-02-10,2023-03-30,Cleared,Y
+Project Manager,"New York City, NY",EST,Jonathan Pilouare,H1B,"New York, NY",EST,$120K,Yes,2023-02-13,2023-03-04,Cleared,Y
+Workday Developer,"Palm Springs, CA",PST,Sheldon Diamond,GC,"Palm Springs, CA",PST,$160K,Yes,2023-02-14,2023-05-04,Cleared,Y
+Workday Developer,"Austin, TX",CST,kamran khan,H1B,Austin TX,CST,$135K,Yes,2023-03-02,2023-04-13,Cleared,Y
+Workday Developer,"Milwaukee, WI",CST,Sanjay Somuri,H1B,"Milwaukee, WI",CST,$125K,Yes,2023-03-03,2023-04-17,Cleared,Y
+Oracle EBS,"Pasadena, CA",PST,Brad Bahmanpour,US Citizen,"Pasadena, CA",PST,$150K,No,2023-03-06,2023-04-19,Cleared,Y
+Big Data,NYC,EST,Luther L. Moncrief,US Citizen,"Union, NJ",EST,$140K,No,2023-03-07,2023-04-20,Cleared,Y
+SAP,"San Jose, CA",PST,Mark G. Nielsen,US Citizen,"The Woodlands, TX",CST,$110K,Yes,2023-03-08,2023-04-21,Cleared,N
+UI Developer,"Richmond, VA ",EST,Niraj Kumar Vovra,H1B,"Jackson, NJ",EST,$110K,Yes,2023-03-09,2023-04-24,Cleared,N
+Tester,"Dallas, TX",CST,Stephen Mensa-Bonsu,US Citizen,"Frisco, TX",CST,$85K,Yes,2023-03-10,2023-04-27,Cleared,Y
+Workday Developer,"Austin, TX",CST,Sanjay Somuri,H1B,"Milwaukee, WI",CST,$125K,Yes,2023-03-13,2023-05-01,Cleared,Y
+UI Developer,"Cleavland, OH ",EST,Govind Krishna,H1B,"Boston, MA",EST,$85K,Yes,2023-03-14,2023-04-05,Cleared,Y
+Salesforce,"New York City, NY",EST,"John Cybulski, Jr.",US Citizen,"Rochester, NY",EST,$135K,Yes,2023-03-15,2023-06-05,Cleared,Y
+Tester,"San Fransisco, CA",PST,Karimulla Sha Jahangir Shaik,H1B,"Los Angeles, CA",PST,$85K,No,2023-04-04,2023-05-13,Cleared,N
+Workday Developer,"Tampa, FL",EST,Kevin Murden,US Citizen,"Folsom Sacramento, CA",PST,$100K,Yes,2023-04-05,2023-05-16,Cleared,N
+SAP,NJ,EST,Asghar N Siddiqui,GC,NY 11710,EST,$115K,No,2023-04-06,2023-05-17,Cleared,Y
+Oracle EBS,NY,EST,"John Cybulski, Jr.",US Citizen,"Rochester, NY",EST,$155K,Yes,2023-04-07,2023-05-18,Cleared,Y
+ETL,"Tampa, FL",EST,Anuja Jain,H4 EAD,NY/NJ,EST,$120K,Yes,2023-04-10,2023-05-23,Cleared,N
+Big Data,"Dallas, TX",CST,Suraiya Sultana,US Citizen,Greater New York,EST,$120K,Yes,2023-04-11,2023-05-24,Cleared,N
+Big Data,"Dallas, TX",CST,JEAN-FRANCOIS KPAMI,GC EAD,Florida,EST,$125K,Yes,2023-04-12,2023-05-25,Cleared,Y
+Big Data,"Dallas, TX",CST,Jorge Alvarez,Green Card,"Plano, TX",CST,$185K,Yes,2023-04-13,2023-05-26,Cleared,Y
+Big Data,"Dallas, TX ",CST,Kibiregeta Nassa,US Citizen,"Tampa, FL",EST,$145K,Yes,2023-04-14,2023-05-29,Cleared,Y
+Big Data,"Dallas, TX",CST,Reza Karim,US Citizen,"Jackson Heights, NY",EST,$125K,Yes,2023-04-17,2023-05-30,Cleared,N
+Test Lead,"New York City, NY",EST,Syed Chowdhury,H1B,"JC, NJ",EST,$110K,Yes,2023-04-07,2023-05-18,Cleared,Y
+Test Lead,NJ,EST,Jijy Alummoottil,US Citizen,New Jersey,EST,$105K,No,2023-04-10,2023-05-23,Cleared,Y
+Sharepoint,"New York City, NY",EST,Shubhayu Bhadury,H1B,"Dayton, NJ",EST,$120K,Yes,2023-04-11,2023-05-24,Cleared,N
+UI Developer,"Pasadena, CA",PST,SAKO HARTOUNIAN,GC,Pasadena CA,PST,$75K,No,2023-04-12,2023-05-25,Cleared,Y
+UI Developer,"Pasadena, CA",PST,Niraj Kumar Vovra,H1B,"Jackson, NJ",EST,$90K,Yes,2023-04-13,2023-05-26,Cleared,N
+Java Developer,"Dallas, TX",CST,Govind Krishna,H1B,"San Francisco ,CA",PST,$80K,Yes,2023-04-14,2023-05-29,Cleared,N
+Hadoop Developer,"Austin, TX",CST,Muraleedhara Gangireddy,H1B,"Los Angeles, CA",PST,$130K,Yes,2023-04-17,2023-05-30,Cleared,Y
+Java Developer,"Redomond, WA",PST,Govind Krishna,H1B,"San Francisco ,CA",PST,$100K,No,2023-04-18,2023-05-31,Cleared,Y
+Azure,NY,EST,Robert G Ruffin,US Citizen,"Chico, CA",PST,$150K,Yes,2023-04-19,2023-01-06,Cleared,Y
+Oracle EBS,"Tampa, FL",EST,Jagadish Chintala,H1B,Seattle Washington,PST,$100K,Yes,2023-04-20,2023-02-06,Cleared,Y
+Hadoop Developer,"Atlanta, GA",EST,RAJENDRAPRASAD REDDY,H1B,Chicago IL,CST,$150K,Yes,2023-04-21,2023-05-06,Cleared,Y
+Hadoop Developer,"Los Angeles, CA",PST,sanusvanth vijayamohan,H1B,"Los angeles, CA",PST,$115K,No,2023-04-24,2023-06-06,Cleared,Y
+Dot Net,"Redmond, WA",PST,Jagadish Chintala,H1B,Seattle Washington,PST,$100K,Yes,2023-04-25,2023-07-06,Cleared,Y
+Java Developer,NY,EST,SRINATH REDDY BADDAM,H1B,ALBANY NY,EST,$90K,No,2023-04-26,2023-08-06,Cleared,Y
+Business Analyst,"Richmond, VA ",EST,LEANNA SHARON LAMKIN,H4 EAD,"Lorton, VA",EST,$90k,No,2023-04-27,2023-09-06,Cleared,Y
+Big Data,"Chicago, IL",CST,Daryl O’Rourke,US Citizen,"Chicago ,IL",CST,$140K,Yes,2023-04-28,2023-12-06,Cleared,Y
+Big Data,"San Fransisco, CA",PST,Swathi Neena Gayam,H4 EAD,"Atlanta, GA",EST,$120K,Yes,2023-04-30,2023-06-13,Cleared,N
+Big Data,"Jackson, NJ",EST,Raphael Elul,US Citizen,"Silver Spring, MD",EST,$130K,Yes,2023-04-01,2023-12-05,Cleared,Y
+Oracle EBS,"Tampa, FL",EST,Geetha Gurram Edalur,H4 EAD,"San Ramon, CA",PST,$135K,Yes,2023-04-02,2023-05-13,Cleared,N
+Big Data,"Jackson, NJ",EST,Manmohan Voniyadka,GC,Rhode Island,EST,$160K,Yes,2023-04-05,2023-05-16,Cleared,Y
+Dot Net,"Redmond, WA",PST,Govind Krishna,GC,"San Francisco ,CA",PST,$90K,Yes,2023-04-06,2023-05-17,Cleared,Y
+Oracle EBS,"New Jersey, NJ ",EST,Chakrapani Jasti,H4 EAD,New Jersey,EST,$140K,No,2023-05-01,2023-05-16,Cleared,Y
+Tester,"Dallas, TX ",CST,IMTIYAZ BARMARE,US Citizen,"Minneapolis, MN",CST,$115K,Yes,2023-05-02,2023-05-17,Cleared,N
+Java Developer,"Dallas, TX",CST,Patricia jean buchanan,US Citizen,"Irving, TX",CST,$100K,No,2023-05-03,2023-05-21,Cleared,Y
+ETL,"Charlotte, NC ",EST,Sushma Reddy,H4 EAD,"Raleigh, NC",EST,$85K,Yes,2023-05-04,2023-05-22,Cleared,Y
+UI Developer,"Tampa, FL",EST,Deepu Venugopal,H4 EAD,"Tampa, FL",EST,$90K,Yes,2023-05-08,2023-05-24,Cleared,Y
+Dot Net,"Redmond, WA",PST,LiTon Leu,US Citizen,"Flushing, NY",EST,$105K,Yes,2023-05-09,2023-05-25,Cleared,N
+Java Developer,"Milwaukee, WI",CST,Maharshi Bhattacharya,H1B,"Highland Park, NJ",EST,$100K,Yes,2023-05-10,2023-05-30,Cleared,Y
+Oracle EBS,"San Fransisco, CA",PST,Craig Cheatham,US Citizen,"SAN DIEGO, CA",PST,$100K,Yes,2023-05-11,2023-05-31,Cleared,N
+Big Data,"Jackson, NJ",EST,Manmohan Voniyadka,H1B,Rhode Island,EST,$160K,Yes,2023-05-12,2023-02-06,Cleared,Y
+Big Data Developer,"Dallas, TX ",CST,Rakesh Samineni,H1B,"St.louis, MO",CST,$125K,Yes,2023-05-15,2023-05-31,Cleared,Y
+Big Data Developer,"Dallas, TX",CST,santosh kumar,H1B,"Lexington, Kentucky",EST,$105K,Yes,2023-05-16,2023-03-06,Cleared,Y
+Tester,"Austin, TX",CST,Azhar Pasha,H1B,IRVING TX,CST,$90K,Yes,2023-05-17,2023-06-06,Cleared,Y
+Dot Net,NJ,EST,Luther L. Moncrief,US Citizen,"Union, NJ",EST,$140K,No,2023-05-18,2023-07-06,Cleared,Y
+Java Developer,"Richmond, VA ",EST,Patricia jean buchanan,US Citizen,"Irving, TX",CST,$105K,Yes,2023-05-19,2023-08-06,Cleared,N
+BI,"Washington, D.C.",EST,David Kasa,US Citizen,"Silver Spring, MD",EST,$95K,Yes,2023-05-22,2023-09-06,Cleared,Y
+Business Analyst,"Philadelphia, PA",EST,Dawyna R Steed,US Citizen,"Paulsboro, NJ",EST,$80K,Yes,2023-05-23,2023-10-06,Cleared,Y
+Scrum Master,"Houston, TX",CST,Srinivas B Sridhara,H1B,"Plano, TX",CST,$110K,Yes,2023-05-24,2023-06-13,Cleared,Y
+Scrum Master,"Los Angeles, CA",PST,BEZA A ALEMU,US Citizen,"san Jose, CA",PST,$95K,Yes,2023-05-25,2023-06-14,Cleared,N
+Scrum Master,"Los Angeles, CA",PST,Robert E Phelan,US Citizen,CALIFORNIA,PST,$140K,Yes,2023-05-26,2023-06-15,Cleared,Y
+Big Data,"Philadelphia, PA",EST,Thomas Raju,US Citizen,"Cherry Hill, NJ",EST,$125K,Yes,2023-05-29,2023-06-16,Cleared,Y
+Big Data,"Dallas, TX",CST,Syed A Ali,US Citizen,"Plano, TX",CST,$120K,No,2023-05-30,2023-06-17,Cleared,Y
+BI,"Houston, TX",CST,Zia Islam,US Citizen,Dallas TX,CST,$110K,Yes,2023-05-31,2023-06-20,Cleared,Y
+SQL,"Philadelphia, PA",EST,Monish Varghese Joshy,US Citizen,"Feasterville , PA",EST,$105K,No,2023-05-02,2023-05-17,Cleared,Y
+Project Manager,"Boston, MA",EST,Kyekyeku Opoku-Pong,US Citizen,"Billerica, MA",EST,$110K,No,2023-05-03,2023-05-18,Cleared,Y
+Tester,"New York City, NY",EST,Valerie salnikov,US Citizen,"Princeton, NJ",EST,$90K,Yes,2023-05-04,2023-05-19,Cleared,N
+SAP,"Washington, D.C.",EST,Kofi Tetteh,US Citizen,"Burtonsville, MD",EST,$145K,Yes,2023-05-05,2023-05-20,Cleared,Y
+SQL,"Houston, TX",CST,Dipanka Dutta,H1B,"Atlanta, GA",EST,$95K,Yes,2023-05-08,2023-05-25,Cleared,N
+SQL,"Los Angeles, CA",PST,Jithendra Roy Nagabhirava,H1B,Sunnyvale california,PST,$110K,Yes,2023-05-09,2023-05-26,Cleared,Y
+Dot Net,"Houston, TX",CST,Patricia jean buchanan,GC,"Irving, TX",CST,$100K,Yes,2023-05-10,2023-05-29,Cleared,Y
+UI Developer,"New York City, NY",EST,Niraj Kumar Vovra,H1B,"Jackson, NJ",EST,$100K,Yes,2023-05-11,2023-05-30,Cleared,Y
+Cloud Architect,"Los Angeles, CA",PST,Doreen Soiberg,GC,Huntington Beach CA,PST,$160K,No,2023-05-12,2023-05-31,Cleared,Y
+Scrum Master,"New York City, NY",EST,Matt Krzysztofik,US Citizen,"Trumbull, Connecticut",EST,$120K,Yes,2023-05-15,2023-06-05,Cleared,Y
+Dot Net,"Chicago, IL",CST,Nejibe M. Jabir,GC,"Chicago, IL",CST,$85K,No,2023-05-16,2023-06-06,Cleared,Y
+Network Engineer,"New York City, NY",EST,Shaharyar Akhtar,H1B,Chicago IL,CST,$85K,Yes,2023-05-17,2023-06-07,Cleared,N
+Business Analyst,"Atlanta, GA",EST,MIHIR SANATKUMAR JOSHI,H1B,"LEXINGTON, KY",EST,$100K,Yes,2023-05-18,2023-06-08,Cleared,Y
+Network Engineer,"Los Angeles, CA",PST,Govind Bala Krishna,H1B,San Francisco CA,PST,$85K,Yes,2023-05-19,2023-06-09,Cleared,N
+Project Manager,"Dallas, TX",CST,Syed Qaiser Yusuf,H1B,"Fort Worth, TX",CST,$120K,Yes,2023-05-22,2023-06-12,Cleared,Y
+Project Manager,"Los Angeles, CA",PST,Mark William Niswonger,US Citizen,"Fair Oaks, CA",PST,$120K,Yes,2023-05-23,2023-06-13,Cleared,Y
+iOS Developer,"Washington, D.C.",EST,Suraj Raju Dhopati,H1B,"McLean, VA",EST,$95K,Yes,2023-05-24,2023-06-14,Cleared,Y
+Project Manager,"Detroit, MI",EST,Mariana Juliette,US Citizen,"Grand Rapids, MI",EST,$110K,Yes,2023-05-25,2023-06-15,Cleared,Y
+SQL,"Jersey City, NJ",EST,MICHAEL SHEFFER,US Citizen,"FORT LEE, NJ",EST,$110K,Yes,2023-05-26,2023-06-16,Cleared,Y
+Project Manager,"Newark, NJ",EST,Imran I Mughal,H1B,New Jersey,EST,$105K,No,2023-05-29,2023-06-19,Cleared,Y
+Network Engineer,"New York City, NY",EST,Nicholas D’Angelo,US Citizen,"NYC, NY",EST,$100K,No,2023-05-30,2023-06-20,Cleared,Y
+Network Engineer,"New York City, NY",EST,Avijit Sur Chowdhury,H1B,NY,EST,$85K,No,2023-05-31,2023-06-21,Cleared,N
+Network Engineer,"Philadelphia, PA",EST,Narender K Chandel,H1B,Pennsylvania,EST,$120K,Yes,2023-06-01,2023-06-16,Cleared,Y
+Network Engineer,"Boston, MA",EST,Ravi Raj,H1B,"Woburn, MA",EST,$95K,Yes,2023-06-02,2023-06-17,Cleared,N
+Project Manager,"Los Angeles, CA",PST,Roy K. Tsui,US Citizen,"Montecilo, Foothill Ranch, CA",PST,$125K,Yes,2023-06-05,2023-06-20,Cleared,Y
+Network Engineer,"Jacksonville, FL",EST,Ezazul Karim,US Citizen,"JACKSONVILLE, FL",EST,$145K,No,2023-06-06,2023-06-21,Cleared,Y
+Big Data,"Philadelphia, PA",EST,Narender K Chandel,GC,Pennsylvania,EST,$120K,Yes,2023-06-07,2023-06-22,Cleared,Y
+Network Engineer,"Atlanta, GA",EST,RICHARD HOOD,US Citizen,"Suwannee, Ga",EST,$145K,Yes,2023-06-08,2023-06-23,Cleared,Y
+Network Engineer,"Tampa, FL",EST,ED LOUIS,US Citizen,"Lakeland, FL",EST,$150K,Yes,2023-06-09,2023-06-26,Cleared,Y
+Cloud Engineer,"Las Vegas, NV",PST,David Chang,US Citizen,"Las Vegas, NV",PST,$90K,No,2023-06-12,2023-06-27,Cleared,N
+Dot Net,"Cleveland, OH",EST,RAJAT POPLI,H1B,"Columbus, OH",EST,$90K,Yes,2023-06-13,2023-06-28,Cleared,Y
+Cloud Engineer,"Los Angeles, CA",PST,Allen D. Kasey,US Citizen,"Irvine, CA",PST,$140K,No,2023-06-14,2023-06-29,Cleared,Y
+Network Engineer,"Chicago, IL",CST,SHAHARYAR AKHTAR,H1B,"Chicago, IL",CST,$85K,Yes,2023-06-15,2023-06-30,Cleared,Y
+Tester,"San Diego, CA",PST,Venkata S Velagaleti,H1B,"San Diego, CA",PST,$130K,Yes,2023-06-16,2023-03-07,Cleared,Y
+ServiceNow,"Washington, D.C.",EST,Kavitha Raydurga,H4 EAD,"Herndon, VA",EST,$85K,Yes,2023-06-19,2023-06-07,Cleared,N
+Java Developer,"Los Angeles, CA",PST,David Chang,US Citizen,"Las Vegas, NV",PST,$105K,Yes,2023-06-20,2023-07-07,Cleared,Y
+Network Engineer,"Cleveland, OH",EST,Sumit Shah,H1B,"Cleveland, Ohio",EST,$115K,Yes,2023-06-21,2023-10-07,Cleared,Y
+UI Developer,"New York City, NY",EST,Bhushan Sangani,H1B,"Iselin, NJ",EST,$85K,Yes,2023-06-22,2023-11-07,Cleared,Y
+UI Developer,"Chicago, IL",CST,Gerard Ignatius,US Citizen,"Chicago, IL",CST,$110K,Yes,2023-06-23,2023-12-07,Cleared,Y
+Network Engineer,"Toronto, ON",EST,POLLY LIANG,US Citizen,"Scarborough, Ontario, Canada",EST,$110K,No,2023-06-26,2023-07-13,Cleared,N
+Cloud Engineer,"Dallas, TX",CST,Bruno R Neves,US Citizen,"Austin, TX",CST,$150K,Yes,2023-06-27,2023-07-14,Cleared,Y
+Python,"Newark, NJ",EST,RAJESH ACHARYA,GC,NJ-Hightstown,EST,$110K,No,2023-06-28,2023-07-17,Cleared,Y
+Big Data,"San Francisco, CA",PST,Joseph raj,GC,"San Jose, CA",PST,$160K,Yes,2023-07-01,2023-06-17,Cleared,Y
+Dot Net,"Dallas, TX",CST,Gordon A. Biney,US Citizen,"Austin, TX",CST,$110K,Yes,2023-07-02,2023-06-20,Cleared,Y
+ETL,"New York City, NY",EST,ROBERT BREW SPENCER,US Citizen,"Hartford, CT",EST,$110K,Yes,2023-07-05,2023-06-21,Cleared,Y
+Network Engineer,"Chicago, IL",CST,"George H, Lewandowski",US Citizen,"Roselle, IL",CST,$110K,Yes,2023-07-06,2023-06-24,Cleared,Y
+Java Developer,"Detroit, MI",EST,Lalit N. Berwa,H1B,"Detroit, Michigan",EST,$100K,Yes,2023-07-07,2023-06-25,Cleared,Y
+Project Manager,"Des Moines, IA",CST,STEVEN SOMMERS,US Citizen,"Newton, IA",CST,$130K,Yes,2023-07-08,2023-06-28,Cleared,Y
+Project Manager,"Raleigh, NC",EST,John Gary,US Citizen,NC,EST,$130K,Yes,2023-07-09,2023-06-29,Cleared,Y
+Project Manager,"Houston, TX",CST,Christian Striplin,US Citizen,"Dallas, TX",CST,$135K,Yes,2023-07-12,2023-06-30,Cleared,Y
+Big Data,"New York City, NY",EST,Abraham Ankrah,H1B,"Hartford, CT",EST,$100K,Yes,2023-07-13,2023-01-07,Cleared,Y
+Big Data,"New York City, NY",EST,Ram Peddireddigari,H1B,"Farmington, CT",EST,$110K,Yes,2023-07-14,2023-05-07,Cleared,Y
+Big Data,"New York City, NY",EST,Dhiman Biswas,H4 EAD,"Plainsboro, NJ",EST,$115K,Yes,2023-07-15,2023-06-07,Cleared,Y
+Cloud Engineer,"New York City, NY",EST,Vasudev Kumarjiguda,H1B,"Edison, NJ",EST,$150K,Yes,2023-07-16,2023-07-07,Cleared,Y
+Dot Net,"Kansas City, MO",CST,Veer Varma Poranki,GC,"Overland Park, KS",CST,$140K,Yes,2023-07-19,2023-10-07,Cleared,N
+ETL,"Houston, TX",CST,Annapurna Ravula,H1B,"Houston, TX",CST,$85K,Yes,2023-07-20,2023-11-07,Cleared,N
+Java Developer,"Jersey City, NJ",EST,Arul Chowdhury,GC,"Bayonne, NJ",EST,$96K,No,2023-07-21,2023-12-07,Cleared,Y
+Python,"San Antonio, TX",CST,Ray C Horn,US Citizen,"Universal City, Texas",CST,$150K,Yes,2023-07-22,2023-07-13,Cleared,Y
+ETL,"Atlanta, GA",EST,Mark Heydari,US Citizen,"Atlanta, GA",EST,$115K,Yes,2023-07-23,2023-07-14,Cleared,Y
+UI Developer,"Miami, FL",EST,GAURAV PATEL,GC,"Tampa, FL",EST,$95K,Yes,2023-07-26,2023-07-17,Cleared,Y
+Business Analyst,"Chicago, IL",CST,Momcilo Teovanovic.,US Citizen,"Chicago, IL",CST,$90K,No,2023-07-27,2023-07-18,Cleared,N
+Business Analyst,"Los Angeles, CA",PST,Niaz Khan,US Citizen,"Artesia, CA",PST,$95K,Yes,2023-07-28,2023-07-19,Cleared,N
+Data Scientist,"New York City, NY",EST,Shorab Sarker,GC,"Highland Park, NJ",EST,$130K,No,2023-07-01,2023-06-16,Cleared,Y
+Network Engineer,"Chicago, IL",CST,SHAHARYAR AKHTAR,H1B,"Chicago, IL",CST,$85K,Yes,2023-07-02,2023-06-17,Cleared,Y
+Tester,"New York City, NY",EST,Bazlul KAMAL,US Citizen,NY,EST,$110K,No,2023-07-05,2023-06-20,Cleared,Y
+BI,"Little Rock, AR",CST,Fahad Hassan Khan,US Citizen,"Little Rock, AR",CST,$110K,No,2023-07-06,2023-06-21,Cleared,Y
+Network Engineer,"Dallas, TX",CST,Andy Tin Nguyen,US Citizen,Carrollton,CST,$85K,Yes,2023-07-07,2023-06-22,Cleared,Y
+Network Engineer,"Chicago, IL",CST,CLIFTON M. WILLIAMS,US Citizen,"Chicago, IL",CST,$80K,Yes,2023-07-08,2023-06-23,Cleared,Y
+iOS Developer,"Milwaukee, WI",CST,Michael Roubik,US Citizen,WI,CST,$110K,Yes,2023-07-09,2023-06-26,Cleared,Y
+Data Scientist,"New York City, NY",EST,PETER C. ADELMANN,US Citizen,"Hillsborough, NJ",EST,$115K,No,2023-07-12,2023-06-27,Cleared,Y
+Python,"San Francisco, CA",PST,Janis Rough,US Citizen,"San Francisco, CA",PST,$95K,Yes,2023-07-13,2023-06-28,Cleared,Y
+Data Scientist,"New York City, NY",EST,Herzel Ovadia,US Citizen,"Paramus, NJ",EST,$110K,Yes,2023-07-14,2023-06-29,Cleared,Y
+ETL,"Jacksonville, FL",EST,Safiuddin Iqbal Mohammed,US Citizen,"Jacksonville, Florida",EST,$95K,No,2023-07-15,2023-06-30,Cleared,N
+Data Scientist,"New York City, NY",EST,Vasudev Kumarjiguda,H1B,"Edison, NJ",EST,$140K,Yes,2023-07-16,2023-03-07,Cleared,Y
+Java Developer,"New York City, NY",EST,Kirby Zhang,US Citizen,NYC,EST,$110K,Yes,2023-07-19,2023-06-07,Cleared,Y
+Business Analyst,"New York City, NY",EST,Indumathi Somasundaram,H1B,"Bridgewater, NJ",EST,$130K,Yes,2023-07-20,2023-07-07,Cleared,Y
+Data Scientist,"New York City, NY",EST,Vasudev Kumarjiguda,H1B,"Edison, NJ",EST,$140K,Yes,2023-07-21,2023-10-07,Cleared,Y
+Tester,"Atlantic City, NJ",EST,Waqas Ali,US Citizen,"Atlantic City, NJ",EST,$85K,Yes,2023-07-22,2023-11-07,Cleared,N
+Dot Net,"Omaha, NE",CST,Dan McFadden,US Citizen,"Gretna, NE",CST,$100K,No,2023-07-01,2023-07-27,Cleared,Y
+Dot Net,"Washington, D.C.",EST,TORRANCE A. ZELLNER,US Citizen,Washington DC Metro,EST,$110K,Yes,2023-07-04,2023-07-28,Cleared,Y
+Tester,"Chicago, IL",CST,Kasirani Soundrarajapandian,H1B,"Mundelein, IL",CST,$95K,Yes,2023-07-05,2023-07-28,Cleared,N
+Big Data,"New York City, NY",EST,Ram Peddireddigari,H1B,"Farmington, CT",EST,$110K,Yes,2023-07-06,2023-07-29,Cleared,Y
+Oracle EBS,"Chicago, IL",CST,Hamid Afroze,GC,"Chicago, IL",CST,$100K,No,2023-07-07,2023-07-30,Cleared,Y
+Tester,"Chicago, IL",CST,Maruti Gollar,GC,"Chicago, IL",CST,$100K,Yes,2023-07-08,2023-07-31,Cleared,Y
+Salesforce,"Houston, TX",CST,Ravi Maddu,H1B,"Houston, TX",CST,$100K,Yes,2023-07-11,2023-08-01,Cleared,Y
+Salesforce,"Detroit, MI",EST,Lalit N. Berwa,H1B,"Detroit, Michigan",EST,$110K,Yes,2023-07-12,2023-08-02,Cleared,Y
+Salesforce,"Little Rock, AR",CST,Jahan Bakhtiar,GC,"Rock, AR",CST,$100K,No,2023-07-13,2023-08-03,Cleared,Y
+Business Analyst,"Pittsburgh, PA",EST,Geetha Malini,H4 EAD,"Pittsburgh, PA",EST,$95K,Yes,2023-07-14,2023-08-04,Cleared,N
+Business Analyst,"New York City, NY",EST,Gunjan Singh,H1B,"South Brunswick, NJ",EST,$95K,Yes,2023-07-15,2023-08-05,Cleared,Y
+Oracle EBS,"Boston, MA",EST,Satish Vallabhdas,GC,"Boston, MA",EST,$100K,No,2023-07-18,2023-08-08,Cleared,Y
+UI Developer,"San Francisco, CA",PST,Janis Rough,GC,"San Francisco, CA",PST,$95K,Yes,2023-07-19,2023-08-09,Cleared,Y
+Data Scientist,"Newark, NJ",EST,Dhruti Pandya,H4 EAD,NJ,EST,$80K,No,2023-07-20,2023-08-10,Cleared,Y
+Cloud Engineer,"Dallas, TX",CST,Rajesh Shukla,H1B,"Plano, TX",CST,$140K,Yes,2023-07-21,2023-08-11,Cleared,Y
+UI Developer,"San Francisco, CA",PST,Janis Rough,GC,"San Francisco, CA",PST,$90K,Yes,2023-07-22,2023-08-12,Cleared,N
+Dot Net,"Chicago, IL",CST,SRINIVASA JASHTY,H1B,"Chicago, IL",CST,$100K,Yes,2023-07-25,2023-08-15,Cleared,Y
+Data Scientist,"Seattle, WA",PST,Khader Shaik.,H1B,"Seattle, WA",PST,$145K,Yes,2023-07-26,2023-08-16,Cleared,Y
+Oracle EBS,"Richmond, VA",EST,STEVE RUAN,US Citizen,"Richmond, VA",EST,$100K,No,2023-07-27,2023-08-17,Cleared,Y
+Business Analyst,"Tampa, FL",EST,Carl Guillen,US Citizen,"Tampa, FL",EST,$100K,No,2023-07-28,2023-08-18,Cleared,Y
+Data Scientist,"San Francisco, CA",PST,Kishore Pandiri,H1B,"Foster City, CA",PST,$145K,Yes,2023-07-29,2023-08-19,Cleared,Y
+Network Engineer,"New York City, NY",EST,Nicasio Rey Banta,US Citizen,"Orangeburg, NY",EST,$80K,Yes,2023-07-01,2023-07-28,Cleared,N
+Network Engineer,"Kansas City, MO",CST,Michael Wickman,US Citizen,Missouri,CST,$90K,No,2023-07-04,2023-07-29,Cleared,N
+iOS Developer,"Washington, D.C.",EST,Suraj Raju Dhopati,H1B,"McLean, VA",EST,$95K,No,2023-07-05,2023-07-30,Cleared,Y
+Network Engineer,"Portland, OR",PST,Emadul Islam,GC,Portland,PST,$90K,Yes,2023-07-06,2023-07-31,Cleared,N
+Big Data,"New York City, NY",EST,Saji Varghese,H1B,"Brooklyn, New York",EST,$145K,Yes,2023-07-07,2023-08-01,Cleared,Y
+Network Engineer,"Chicago, IL",CST,NA Huss,US Citizen,"Wheaton, IL",CST,$115K,Yes,2023-07-08,2023-08-02,Cleared,Y
+Java Developer,"Dallas, TX",CST,PARSHURAM DAHAL.,H1B,"Irving, TX",CST,$90K,Yes,2023-07-11,2023-08-05,Cleared,Y
+Oracle EBS,"Jersey City, NJ",EST,VISHAL PUNNA,GC,"JERSEY CITY, NJ",EST,$115K,No,2023-07-12,2023-08-06,Cleared,Y
+UI Developer,"Dallas, TX",CST,MIGUEL A. ROBLERO,US Citizen,"AUSTIN, TX",CST,$110K,Yes,2023-07-13,2023-08-07,Cleared,Y
+iOS Developer,"Washington, D.C.",EST,Alemayehu Degefe,US Citizen,Washington DC,EST,$120K,Yes,2023-07-14,2023-08-08,Cleared,Y
+Big Data,"Denver, CO",MST,Kenneth Cater,US Citizen,"Hartsel, CO",MST,$135K,No,2023-07-15,2023-08-09,Cleared,Y
+Big Data,"Washington, D.C.",EST,MYRON WARD,US Citizen,"Laurel, MD",EST,$145K,Yes,2023-07-18,2023-08-12,Cleared,Y
+Data Scientist,"San Francisco, CA",PST,Naz,US Citizen,"San Francisco, CA",PST,$170K,Yes,2023-07-19,2023-08-13,Cleared,Y
+Tester,"Baltimore, MD",EST,ZAFER CALIS,US Citizen,"Elkridge, MD",EST,$100K,No,2023-07-20,2023-08-16,Cleared,Y
+UI Developer,"Los Angeles, CA",PST,Scott Otocki,US Citizen,CA,PST,$140K,Yes,2023-07-21,2023-08-17,Cleared,Y
+Tester,"Austin, TX",CST,Charitha Maddipatla,H4 EAD,"Round Rock, TX",CST,$85K,No,2023-07-22,2023-08-18,Cleared,N
+SQL,"Hartford, CT",EST,Nnaemezue Augustine Obi-Eyisi,GC,"Rocky Hill, CT",EST,$175K,Yes,2023-07-25,2023-08-19,Cleared,Y
+SQL,"Buffalo, NY",EST,Mishel Awan,US Citizen,"Buffalo, NY",EST,$100K,Yes,2023-07-26,2023-08-22,Cleared,Y
+Cloud Engineer,"Chicago, IL",CST,Roberta M. Livingston,US Citizen,"Chicago, IL",CST,$185,No,2023-07-27,2023-08-23,Cleared,Y
+Cloud Engineer,"Chicago, IL",CST,Saira N. Khan,US Citizen,"Wheeling, Illinois",CST,$130K,Yes,2023-07-28,2023-08-24,Cleared,Y
+Big Data,"Denver, CO",MST,Kenneth Cater,US Citizen,"Hartsel, CO",MST,$127K,No,2023-07-29,2023-08-25,Cleared,Y
+Big Data,"Baltimore, MD",EST,MYRON WARD,US Citizen,"Laurel, MD",EST,$138K,No,2023-07-01,2023-07-27,Cleared,Y
+Data Scientist,"San Francisco, CA",PST,Naz,GC,"San Francisco, CA",PST,$190K,Yes,2023-07-04,2023-07-28,Cleared,Y
+Tester,"Baltimore, MD",EST,ZAFER CALIS,US Citizen,"Elkridge, MD",EST,$105K,Yes,2023-07-05,2023-07-29,Cleared,Y
+Python,"Los Angeles, CA",PST,Scott Otocki,US Citizen,CA,PST,$130K,No,2023-07-06,2023-07-30,Cleared,Y
+Tester,"Austin, TX",CST,Charitha Maddipatla,H1B,"Round Rock, TX",CST,$95K,Yes,2023-07-07,2023-07-31,Cleared,N
+SQL,"Hartford, CT",EST,Nnaemezue Augustine Obi-Eyisi,US Citizen,"Rocky Hill, CT",EST,$175K,Yes,2023-07-08,2023-01-08,Cleared,Y
+SQL,"Buffalo, NY",EST,Mishel Awan,US Citizen,"Buffalo, NY",EST,$170K,Yes,2023-07-11,2023-02-08,Cleared,Y
+iOS Developer,"Chicago, IL",CST,Roberta M. Livingston,US Citizen,"Chicago, IL",CST,$185,Yes,2023-07-12,2023-05-08,Cleared,Y
+iOS Developer,"Chicago, IL",CST,Saira N. Khan,GC,"Wheeling, Illinois",CST,$130K,No,2023-07-13,2023-06-08,Cleared,Y
+SQL,"Dallas, TX",CST,Dwanna Powell,Citizen,"Arlington, TX",CST,$105K,Yes,2023-07-14,2023-07-08,Cleared,Y
+SQL,"Dallas, TX",CST,Evelio Morales Jr.,Citizen,"Haltom City, TX",CST,$110K,Yes,2023-07-15,2023-08-08,Cleared,Y
+ETL,"Atlanta, GA",EST,David Cohn,Citizen,"Dunwoody, GA",EST,$120K,No,2023-07-18,2023-09-08,Cleared,Y
+ETL,"New York City, NY",EST,JEEVAN PATIL,Citizen,"Edison, NJ",EST,$165K,No,2023-07-19,2023-12-08,Cleared,Y
+ETL,"Dallas, TX",CST,Margaret Banke Ogunlana,US Citizen,"Fort Worth, TX 76120",CST,$115K,No,2023-07-20,2023-08-13,Cleared,Y
+ETL,"Dallas, TX",CST,Felicia Hurt,Citizen,"Fort Worth, TX",CST,$125K,Yes,2023-07-21,2023-08-16,Cleared,Y
+Oracle EBS,"Dallas, TX",CST,Sanjay Kattimani,Citizen,"Dallas, Texas",CST,$135K,No,2023-07-22,2023-08-17,Cleared,Y
+BI,"Los Angeles, CA",PST,FRANCISCO J MONTES,Citizen,"Diamond Bar, CA",PST,$135k,Yes,2023-07-25,2023-08-18,Cleared,Y
+BI,"Atlanta, GA",EST,PAUL CUMMINS,Citizen,"Dawsonville, GA",EST,$100K,Yes,2023-07-26,2023-08-19,Cleared,N
+BI,"Houston, TX",CST,Nwakanwa K. Ebelechukwu,Green Card Holder,"Houston, TX",CST,$85K,Yes,2023-07-27,2023-08-22,Cleared,N
+Tester,"Minneapolis, MN",CST,"Amos Togbeson, Jr.",US Citizen,"St. Anthony, MN",CST,$85K,Yes,2023-07-28,2023-08-23,Cleared,Y
+UI Developer,"Los Angeles, CA",PST,Rafayel Karapetyan,Green Card Holder,"Glendale, CA",PST,$90K,Yes,2023-07-29,2023-08-24,Cleared,Y
+UI Developer,"San Francisco, CA",PST,Kavyasree Byreddy,H1B,"Fremont, CA",PST,$95K,No,2023-07-01,2023-07-26,Cleared,Y
+UI Developer,"Los Angeles, CA",PST,Joshua Hernandez,Citizen,California,PST,$85K,Yes,2023-07-04,2023-07-27,Cleared,N
+Tester,"San Antonio, TX",CST,Tekendra Puri,Citizen,"San Antonio, Texas",CST,$110K,Yes,2023-07-05,2023-07-28,Cleared,Y
+Dot Net,"Dallas, TX",CST,Anjanaa Parasuraman,H4 EAD,"Dallas, Texas",CST,$120K,Yes,2023-07-06,2023-07-29,Cleared,Y
+Dot Net,"Austin, TX",CST,Gilbert Sauceda,US Citizen,"Austin, TX",CST,$115K,Yes,2023-07-07,2023-02-08,Cleared,Y
+Tester,"Dallas, TX",CST,Shilpa Harikumar,Green Card Holder,"Plano, TX",CST,$90K,No,2023-08-01,2023-08-30,Cleared,N
+Java Developer,"Baltimore, MD",EST,Sanjeev Kakar,Green Card Holder,"Clarksburg, MD",EST,$130K,Yes,2023-08-02,2023-08-31,Cleared,Y
+Dot Net,"Houston, TX",CST,WILLIAM L. CALDWELL,US Citizen,"Houston, TX",CST,$105K,Yes,2023-08-03,2023-01-09,Cleared,Y
+Dot Net,"Atlanta, GA",EST,David J. McKee,US Citizen,"Roswell, GA",EST,$125K,Yes,2023-08-04,2023-02-09,Cleared,Y
+UI Developer,"San Francisco, CA",PST,Jeremy Dalton Sande,US Citizen,"Belmont, CA",PST,$140K,Yes,2023-08-08,2023-05-09,Cleared,Y
+Tester,"Atlanta, GA",EST,Md Akmal Hossain,Green Card Holder,"Lilburn, GA",EST,$115K,Yes,2023-08-09,2023-06-09,Cleared,Y
+Data Scientist,"New York City, NY",EST,Hevel Jean-Baptiste,US Citizen,"Scarsdale, NY",EST,$145K,No,2023-08-10,2023-07-09,Cleared,Y
+Tester,"Atlanta, GA",EST,Esha Kala,US Citizen,"Cumming, GA",EST,$100K,Yes,2023-08-11,2023-08-09,Cleared,Y
+Tester,"Atlanta, GA",EST,Shile Akinrinmade,US Citizen,Cumming GA,EST,$160K,No,2023-08-14,2023-09-09,Cleared,Y
+Tester,"Springfield, MA",EST,Alexandra B. Purcell,US Citizen,"Chicopee, MA",EST,$80K,No,2023-08-15,2023-12-09,Cleared,N
+Tester,"Atlanta, GA",EST,Prakash Bista,US Citizen,"Atlanta, GA",EST,$95K,Yes,2023-08-16,2023-09-13,Cleared,N
+Python,"Scranton, PA",EST,Lori Readler,US Citizen,"Wilkes-Barre, PA",EST,$140K,No,2023-08-17,2023-09-14,Cleared,Y
+SQL,"Los Angeles, CA",PST,Richard Martinez,US Citizen,St. Bellflower CA,PST,$105K,Yes,2023-08-18,2023-09-15,Cleared,Y
+ETL,"Buffalo, NY",EST,Michael A Minotti,US Citizen,"Kenmore, NY",EST,$110K,Yes,2023-08-21,2023-09-16,Cleared,Y
+ETL,"Buffalo, NY",EST,Cassandra Higgins,US Citizen,"ELMA, NY 14059",EST,$115K,Yes,2023-08-22,2023-09-19,Cleared,Y
+ETL,"Buffalo, NY",EST,Kimberly Santos Orellana,US Citizen,"Buffalo, NY",EST,$120K,No,2023-08-23,2023-09-20,Cleared,Y
+Oracle EBS,"San Francisco, CA",PST,Ronald J Leong,US Citizen,"San Francisco, CA",PST,$75k,Yes,2023-08-24,2023-09-21,Cleared,N
+ETL,"Madison, WI",CST,Gunnard Arthur Fredrickson,US Citizen,"Fort Atkinson, WI",CST,$85K,Yes,2023-08-25,2023-09-22,Cleared,N
+UI Developer,"Baltimore, MD",EST,Jason Barrie,US Citizen,"Millersville, MD",EST,$110K,Yes,2023-08-28,2023-09-23,Cleared,Y
+UI Developer,"Baltimore, MD",EST,Olumuyiwa Somide,US Citizen,"Windsor Mill, MD",EST,$115K,Yes,2023-08-29,2023-09-26,Cleared,Y
+Salesforce,"Atlanta, GA",EST,Robert Fitch,US Citizen,"Atlanta, GA",EST,$170K,Yes,2023-08-30,2023-09-27,Cleared,Y
+Salesforce,"Chicago, IL",CST,George Huene,US Citizen,"Chicago, IL",CST,$200K,Yes,2023-08-31,2023-09-28,Cleared,Y
+Salesforce,"Buffalo, NY",EST,Adrienne Meredith,US Citizen,"Buffalo, NY 14212",EST,$140k,No,2023-08-01,2023-08-29,Cleared,Y
+Cloud Engineer,"Houston, TX",CST,Tim Mardis,US Citizen,"Houston, TX",CST,$150K,Yes,2023-08-02,2023-08-30,Cleared,Y
+Dot Net,"Dallas, TX",CST,Saqib Ishaq,US Citizen,"Dallas, Texas",CST,$105K,No,2023-08-03,2023-08-31,Cleared,Y
+Network Engineer,"Philadelphia, PA",EST,Muzaffar Ahmed,Green Card Holder,"Philadelphia, PA",EST,$130k,Yes,2023-08-04,2023-09-01,Cleared,Y
+Network Engineer,"Dallas, TX",CST,Mohammed Quamrul Hasan,US Citizen,"Plano, TX",CST,$145K,No,2023-08-08,2023-09-02,Cleared,Y
+Dot Net,"Dallas, TX",CST,ROBERT PERRY,US Citizen,"Dallas, Texas",CST,$85K,Yes,2023-08-09,2023-09-05,Cleared,N
+Data Scientist,"Dallas, TX",CST,Ronda R. Markworth,US Citizen,"Fort Worth, TX",CST,$120K,No,2023-08-10,2023-09-06,Cleared,Y
+SQL,"Washington, D.C.",EST,Yalew Eshetu Mengistie,Green Card Holder,Silver spring MD,EST,$105K,Yes,2023-08-11,2023-09-07,Cleared,N
+Big Data,"Dallas, TX",CST,Mark A. Williams,US Citizen,"Arlington, TX",CST,$160K,,2023-08-14,2023-09-08,Cleared,Y
+Big Data,"San Francisco, CA",PST,SMITHA THANDRA,US Citizen,"San Ramon, CA",PST,$155K,No,2023-08-15,2023-09-09,Cleared,Y
+Cloud Engineer,"Austin, TX",CST,Debra O’Shaughnessy,US Citizen,"Austin, TX",CST,$140K,Yes,2023-08-16,2023-09-12,Cleared,Y
+SQL,"Washington, D.C.",EST,Emn Emn,Green Card Holder,District of Columbia,EST,$105K,Yes,2023-08-17,2023-09-13,Cleared,Y
+Scrum Master,"Dallas, TX",CST,Robert Tanwani,Green Card Holder,"Grand Prairie, TX",CST,$115K,Yes,2023-08-18,2023-09-14,Cleared,Y
+Scrum Master,"Raleigh, NC",EST,Prasad Kanhyalal Satghare,US Citizen,"Raleigh, NC",EST,$110K,Yes,2023-08-21,2023-09-15,Cleared,N
+Data Scientist,"Columbus, OH",EST,Easwaran Ramasamy,Green Card Holder,"Columbus, OH",EST,$130K,Yes,2023-08-22,2023-09-16,Cleared,Y
+Salesforce,"Houston, TX",CST,Adey Okeowo,US Citizen,"Houston, TX",CST,$140K,Yes,2023-08-23,2023-09-19,Cleared,Y
+Scrum Master,"Dallas, TX",CST,Suganthi Subramanian,Green Card Holder,"Plano, TX",CST,$125K,Local Only,2023-08-24,2023-09-20,Cleared,Y
+Scrum Master,"Raleigh, NC",EST,Sangeeta Patil,US Citizen,"Apex, NC",EST,$90K,Local Only,2023-08-25,2023-09-21,Cleared,N
+BI,"Austin, TX",CST,Naveen Moturi,GC,"Dallas, TX",CST,$120K,Local Only,2023-08-28,2023-09-22,Cleared,Y
+Scrum Master,"Raleigh, NC",EST,Amina Khan,US Citizen,"Apex, NC",EST,$125K,Local Only,2023-08-29,2023-09-23,Cleared,Y
+Oracle EBS,"Detroit, MI",EST,Hla Oo,US Citizen,Michigan,EST,$140K,Yes,2023-08-30,2023-09-26,Cleared,Y
+Big Data,"Austin, TX",CST,Emmanuel,US Citizen,"Dallas, TX",CST,$130K,Local Only,2023-08-31,2023-09-27,Cleared,Y
+Hadoop developer,"New York City, NY",EST,Kane Rashid,US Citizen,"New York, NY",EST,$120K,,2023-08-01,2023-08-27,Cleared,Y
+Java Developer,"Los Angeles, CA",PST,Pragathi Thammaneni,H1B,"Woodland Hills, CA",PST,$95K,Yes,2023-08-02,2023-08-28,Cleared,Y
+Java Developer,"Austin, TX",CST,Ambika kulkarni,H4 EAD,"Plano, Texas",CST,$90K,Local Only,2023-08-03,2023-08-29,Cleared,N
+Java Developer,"Seattle, WA",PST,Parini Jadishbhai Oza,H1B,"Seattle, Washington",PST,$80K,Yes,2023-08-04,2023-08-30,Cleared,Y
+Big Data,"Austin, TX",CST,Arnaud Konan,US Citizen,"McKinney, TX",CST,$125K,No,2023-08-08,2023-08-31,Cleared,Y
+Big Data,"Austin, TX",CST,Benugopal Polisety,US Citizen,"Round Rock, TX",CST,$140K,Local Only,2023-09-08,2023-09-01,Cleared,Y
+Big Data Architect,"Austin, TX",CST,MAMOON KUNDI,US Citizen,"Allen, Texas",CST,$200K,No,2023-10-08,2023-09-02,Cleared,Y
+Hadoop Developer,"New York City, NY",EST,KHURRUM KAISER,US Citizen,"New York, NY",EST,$115K,Local Only,2023-11-08,2023-09-05,Cleared,N
+Big Data,"Denver, CO",MST,Hindhu Ganesan,H4 EAD,"Highlands Ranch , CO",MST,$110K,Yes,2023-08-14,2023-09-06,Cleared,Y
+Big Data,"Atlanta, GA",EST,Sunil Ithappiri,US Citizen,"Atlanta, Georgia",EST,$135K,Local Only,2023-08-15,2023-09-07,Cleared,Y
+Big Data,"Atlanta, GA",EST,Evan Flint,US Citizen,"Atlanta, Georgia",EST,$115K,Yes,2023-08-16,2023-09-08,Cleared,Y
+ETL,"Sacramento, CA",PST,Mohammed Raza,US Citizen,"Roseville, CA",PST,$110K,Yes,2023-08-17,2023-09-09,Cleared,N
+ETL,"Chicago, IL",CST,Ritika Jain,H4 EAD,"Chicago, IL",CST,$105K,,2023-08-18,2023-09-12,Cleared,Y
+Tester,"Plano, TX",CST,Shahid Ahmed,US Citizen,Plano TX 75023,CST,$95K,Open,2023-08-21,2023-09-13,Cleared,Y
+Java Developer,"Austin, TX",CST,Kumar Thirunavukarasu,US Citizen,"Austin, TX",CST,$130K,Local Only,2023-08-22,2023-09-14,Cleared,Y
+Java Developer,"Detroit, MI",EST,Hoda Yousef,US Citizen,"Dearborn, MI",EST,$95K,Yes,2023-08-23,2023-09-15,Cleared,Y
+Java Developer,"San Francisco, CA",PST,Feven Goitom,GC,"San Francisco, CA",PST,$90K,Yes,2023-08-24,2023-09-16,Cleared,N
+Java Developer,"San Francisco, CA",PST,Hassania Shaik Dawood,GC,"San Jose, CA",PST,$100K,Local Only,2023-08-25,2023-09-19,Cleared,Y
+Java Developer,"San Francisco, CA",PST,Alena Prakharenka,GC,"Redwood City, CA",PST,$110K,Local Only,2023-08-28,2023-09-20,Cleared,Y
+Java Developer,"New York City, NY",EST,Kirby Zhang,US Citizen,"Queens, NY",EST,$120K,Yes,2023-08-29,2023-09-21,Cleared,Y
+Java Developer,"Plano, TX",CST,Mridul Bhattarai,GC,"Plano, TX",CST,$110K,Yes,2023-08-30,2023-09-22,Cleared,Y
+Java Developer,"Atlanta, GA",EST,Sowmya Muniyappa,GC,"Atlanta, GA",EST,$105K,Yes,2023-08-31,2023-09-23,Cleared,Y
+Java Developer,"Seattle, WA",PST,Fikir Debele,GC,"SeaTac, WA",PST,$90K,Yes,2023-08-01,2023-08-26,Cleared,N
+Java Developer,"New York City, NY",EST,Matthew C. Campbell,US Citizen,NY,EST,$110K,Yes,2023-08-02,2023-08-27,Cleared,Y
+Java Developer,"Lincoln, NE",CST,Haibo Huang,GC,"Omaha, NE",CST,$100K,Local Only,2023-08-03,2023-08-30,Cleared,Y
+Java Developer,"Tallahassee, FL",EST,Srilekha Challa,GC,"Jacksonville, FL",EST,$100K,Local Only,2023-08-04,2023-08-31,Cleared,N
+Java Developer,"Austin, TX",CST,Scott Zrubek,US Citizen,"Houston, Texas",CST,$105K,Local Only,2023-08-08,2023-09-01,Cleared,N
+Java Developer,"Austin, TX",CST,William Bill Blackmon,US Citizen,Austin Texas,CST,$100k,Local Only,2023-08-09,2023-09-02,Cleared,Y
+Java Developer,"Indianapolis, IN",EST,HENOK G. TESFA,GC,"Indianapolis, INDIANA",EST,$80K,Local Only,2023-09-01,2023-09-27,Cleared,N
+Java Developer,"Sacramento, CA",PST,vijay kumar,GC,"Richmond, CA",PST,$100K,Yes,2023-09-05,2023-09-29,Cleared,N
+Java Developer,"San Francisco, CA",PST,David Friedman,US Citizen,"San Jose, CA",PST,$140K,Local Only,2023-09-06,2023-09-30,Cleared,Y
+Java Developer,"San Francisco, CA",PST,Samit Kumar Sharma,GC,"Santa Clara, CA",PST,$160K,Local Only,2023-09-07,2023-10-03,Cleared,Y
+Java Developer,"Nashville, TN",CST,Tara Prasad Adhikari,Green Card Holder,TN-Nashville,CST,$95K,Local Only,2023-09-08,2023-10-04,Cleared,Y
+Java Developer,"Annapolis, MD",EST,Jagatkumar Mehta,US Citizen,Gaithersburg MD,EST,$100K,No,2023-09-11,2023-10-05,Cleared,N
+Java Developer,"Washington, D.C.",EST,Surya Nampelly,Green Card Holder,Washington DC Metro,EST,$145K,Local Only,2023-09-12,2023-10-06,Cleared,Y
+Java Developer,"Trenton, NJ",EST,Jaspreet Singh,US Citizen,"Jersey City, NJ 07302",EST,$120K,Local Only,2023-09-13,2023-10-07,Cleared,Y
+Java Developer,"Austin, TX",CST,James Muldrow,US Citizen,"Austin, TX",CST,$100K,Local Only,2023-09-14,2023-10-10,Cleared,Y
+Java Developer,"Austin, TX",CST,Lyn M Keller,US Citizen,Wylie TX,CST,$120K,Local Only,2023-09-15,2023-10-11,Cleared,Y
+Java Developer,"Austin, TX",CST,Fikir Debele,US Citizen,TX-Irving,CST,$120K,Local Only,2023-09-18,2023-10-12,Cleared,Y
+Java Developer,"Atlanta, GA",EST,Timothy Nguyen,US Citizen,"Austin, Texas",CST,$135K,Local Only,2023-09-19,2023-10-13,Cleared,Y
+Java Developer,"Atlanta, GA",EST,Kevin Kinloch,US Citizen,Atlanta GA,EST,$160K,Yes,2023-09-20,2023-10-14,Cleared,Y
+Java Developer,"Austin, TX",CST,Muhammad Anwar,GC,"Alpharetta, GA",EST,$140K,Local Only,2023-09-21,2023-10-17,Cleared,Y
+Java Developer,"Detroit, MI",EST,Donald Soar,US Citizen,Fort Worth TX 76161,CST,$125K,Local Only,2023-09-22,2023-10-18,Cleared,Y
+Java Developer,"Atlanta, GA",EST,Jeff,US Citizen,"Detroit, Michigan",EST,$100K,Yes,2023-09-25,2023-10-19,Cleared,Y
+Java Developer,"Chicago, IL",CST,Steve Pan,US Citizen,"Alpharetta, GA",EST,$110K,Yes,2023-09-26,2023-10-20,Cleared,N
+Java Developer,"San Diego, CA",PST,Oleg Uskov,US Citizen,"Chicago, IL",CST,$130K,Yes,2023-09-27,2023-10-21,Cleared,N
+Java Developer,"Columbus, OH",EST,Prabhu Avanti,US Citizen,"San Diego, CA",PST,$105K,Yes,2023-09-28,2023-10-24,Cleared,N
+Java Developer,"Los Angeles, CA",PST,Godofai Tgiorgis,US Citizen,"Columbus, OH",EST,$90K,Yes,2023-09-29,2023-10-25,Cleared,N
+Dot Net,"Trenton, NJ",EST,Balambigai Ramadurai,H4 EAD,"Simi Valley, CA",PST,$120K,Yes,2023-09-01,2023-09-27,Cleared,N
+Dot Net,"Chicago, IL",CST,Sudhir Kulkarni,Green Card Holder,"Hillsborough, NJ",EST,$160K,Yes,2023-09-05,2023-09-30,Cleared,Y
+Dot Net,"New York City, NY",EST,Pankti,H4 EAD,"Chicago, IL",CST,$100K,Yes,2023-09-06,2023-10-03,Cleared,N
+Dot Net,"Dallas, TX",CST,Records Fred Jabbari,US Citizen,NY,EST,$175K,Yes,2023-09-07,2023-10-04,Cleared,Y
+Dot Net,"New York City, NY",EST,Sreenivasulu Gulimay,H1B,"Irving, Texas",CST,$125K,Yes,2023-09-08,2023-10-05,Cleared,Y
+Python,"Annapolis, MD",EST,Asim Robinson,US Citizen,New York N.Y,EST,$160K,Yes,2023-09-11,2023-10-06,Cleared,Y
+Cloud Engineer,"Austin, TX",CST,Sanjeev Kakar,Green Card Holder,"Clarksburg, MD",EST,$135K,Local Only,2023-09-12,2023-10-07,Cleared,Y
+BI,"Houston, TX",CST,Abiodun Okusolubo,GC,"Irving, TX",CST,$110K,Local Only,2023-09-13,2023-10-10,Cleared,Y
+ETL,"Sacramento, CA",PST,Henok Tsighe Solomon,GC,TX,CST,$125K,Yes,2023-09-14,2023-10-11,Cleared,Y
+Java Developer,"Houston, TX",CST,Xuan Hieu Dang,Green Card Holder,CA,PST,$105K,Yes,2023-09-15,2023-10-12,Cleared,N
+Java Developer,"Houston, TX",CST,Jeffrey W. Miller,US Citizen,TX,CST,$160K,Yes,2023-09-18,2023-10-13,Cleared,Y
+Java Developer,"Houston, TX",CST,Chantha Kim,US Citizen,TX,CST,$125K,Yes,2023-09-19,2023-10-14,Cleared,Y
+Java Developer,"Dallas, TX",CST,Kevin James Cleveland,US Citizen,"Irving, TX",CST,$110K,Yes,2023-09-20,2023-10-17,Cleared,Y
+Java Developer,"Atlanta, GA",EST,Deepa Kumari Dave,Green Card Holder,"Atlanta, GA",EST,$80K,Yes,2023-09-21,2023-10-18,Cleared,Y
+Java Developer,"Orlando, FL",EST,Adam L. Davis,US Citizen,"Orlando, FL",EST,$130K,Yes,2023-09-22,2023-10-19,Cleared,Y
+Java Developer,"Plano, TX",CST,Supreety Mandal,H4 EAD,"Plano, TX",CST,$100K,Yes,2023-09-25,2023-10-20,Cleared,Y
+Java Developer,"Austin, TX",CST,Sudha Gullapalli,H4 EAD,"Dallas, TX",CST,$100K,Local Only,2023-09-26,2023-10-21,Cleared,Y
+Java Developer,"Miami, FL",EST,Peter Boivin,US Citizen,Maria FL 34142,EST,$100K,Yes,2023-09-27,2023-10-24,Cleared,Y
+Java Developer,"Austin, TX",CST,John Q. Wang,US Citizen,"Sugar Land, TX",CST,$100K,Local Only,2023-09-28,2023-10-25,Cleared,Y
+Java Developer,"New York City, NY",EST,Ihab Musa,US Citizen,Greater New York City,EST,$150K,Yes,2023-09-29,2023-10-26,Cleared,Y
+Java Developer,"St. Paul, MN",CST,ARCHANA KARUN KARUNAKARAN,US Citizen,"Mounds View, MN",CST,$120K,Yes,2023-09-01,2023-09-28,Cleared,Y
+Java Developer,"Trenton, NJ",EST,KRISHAN KUMAR,Green Card Holder,"Piscataway Township, NJ",EST,$200K,Yes,2023-09-05,2023-09-30,Cleared,Y
+Java Developer,"Trenton, NJ",EST,Jun Wang,US Citizen,New Jersey City,EST,$115K,Yes,2023-09-06,2023-10-01,Cleared,Y
+Java Developer,"Trenton, NJ",EST,Xiao Chou,US Citizen,"Monmouth JCT, NJ",EST,$120,Local Only,2023-09-07,2023-10-04,Cleared,N
+Java Developer,"Harrisburg, PA",EST,Kalyan Paudel,Green Card Holder,"Harrisburg, PA",EST,$120K,Yes,2023-09-08,2023-10-05,Cleared,Y
+Java Developer,"Albany, NY",EST,Gregory Dempsey,US Citizen,"New Rochelle, NY 10801",EST,$110K,Local Only,2023-09-11,2023-10-06,Cleared,Y
+Java Developer,"San Diego, CA",PST,Lakshmi komma,H4 EAD,"San Diego, CA",PST,$125K,Yes,2023-09-12,2023-10-07,Cleared,N
+Java Developer,"Austin, TX",CST,Waheeda Shaik,Green Card,"Plano, Texas",CST,$120K,No,2023-09-13,2023-10-10,Cleared,Y
+Java Developer,"Raleigh, NC",EST,Sanjiv Khandelwal,Green Card,Raleigh NC,EST,$140K,Yes,2023-09-14,2023-10-11,Cleared,Y
+Java Developer,"Austin, TX",CST,ZELALEM BELAY,GC,"Dallas, Texas",CST,$130K,No,2023-09-15,2023-10-12,Cleared,Y
+Java Developer,"Dallas, TX",CST,SHAHID M. SHEIKH,US Citizen,Greater Dallas Area,CST,$125K,Yes,2023-09-18,2023-10-13,Cleared,Y
+Java Developer,"Miami, FL",EST,Peter k. Huynh,US Citizen,"Hollywood, FL",EST,$120K,Yes,2023-09-19,2023-10-14,Cleared,Y
+Java Developer,"Trenton, NJ",EST,Radha Ramani Tumuluri,US Citizen,"North Brunswick, NJ",EST,$150K,Yes,2023-09-20,2023-10-17,Cleared,Y
+Java Developer,"Orlando, FL",EST,Archana Acharya,H4 EAD,"Orlando, FL",EST,$130K,No,2023-10-02,2023-10-30,Cleared,Y
+Java Developer,"Miami, FL",EST,Javier Pinillos,Green Card Holder,Hollywood FL,EST,$85K,Yes,2023-10-03,2023-10-31,Cleared,N
+Java Developer,"Trenton, NJ",EST,Ejike Osondu,US Citizen,"Bloomfield, NJ",EST,$140K,No,2023-10-04,2023-11-01,Cleared,Y
+Java Developer,"Trenton, NJ",EST,Kamlesh Donga,US Citizen,"Township, NJ",EST,$190K,No,2023-10-05,2023-11-02,Cleared,Y
+Java Developer,"Austin, TX",CST,Farmina Huda,GC,TX,CST,$100K,Yes,2023-10-09,2023-11-06,Cleared,N
+Java Developer,"Newark, NJ",EST,Gurnam Singh,GC,"South Plainfield, NJ",EST,$100K,Yes,2023-10-10,2023-11-07,Cleared,N
+Java Developer,"Tampa, FL",EST,Nagamani Raparla,H4 EAD,"Tampa, FL",EST,$100K,Yes,2023-10-11,2023-11-08,Cleared,Y
+Java Developer,"St. Louis, MO",CST,Lakshmi Chitta,H4 EAD,MO/IL,CST,$105K,Yes,2023-10-12,2023-11-09,Cleared,Y
+Java Developer,"Tampa, FL",EST,Raul Hechavarria,Green Card Holder,"Miami, FL",EST,80K,Local Only,2023-10-16,2023-11-13,Cleared,N
+Java Developer,"Atlanta, GA",EST,Ajay Mahindru,US Citizen,"Alpharetta, Georgia",EST,$145K,Yes,2023-10-17,2023-11-14,Cleared,Y
+Java Developer,"Trenton, NJ",EST,Levan Dvalishvili,US Citizen,"Bridgewater, NJ",EST,$190K,Yes,2023-10-18,2023-11-15,Cleared,Y
+Java Developer,"San Jose, CA",PST,Frank Serkland,US Citizen,San Francisco Bay Area,PST,$115K,Local Only,2023-10-19,2023-11-16,Cleared,Y
+Java Developer,"San Jose, CA",PST,Anjali Pathak,US Citizen,"Santa Clara, CA",PST,$120K,Yes,2023-10-23,2023-11-20,Cleared,Y
+Java Developer,"Trenton, NJ",EST,Jay Singh,US Citizen,"Holmdel, New Jersey",EST,$130K,Yes,2023-10-24,2023-11-21,Cleared,Y
+Java Developer,"Albany, NY",EST,Hanlin Weng,US Citizen,"East Northport, NY",EST,$180K,No,2023-10-25,2023-11-22,Cleared,Y
+Java Developer,"Trenton, NJ",EST,Young Mun Chang,US Citizen,"Ridgefield, NJ",EST,$130K,No,2023-10-26,2023-11-23,Cleared,Y
+Java Developer,"Trenton, NJ",EST,BORIS GALAEV,US Citizen,"New Brunswick, NJ",EST,$140K,No,2023-10-30,2023-11-27,Cleared,Y
+Java Developer,"Trenton, NJ",EST,Sabiha Majid,US Citizen,"Princeton, NJ",EST,$130K,No,2023-10-31,2023-11-28,Cleared,Y
+BI,"Washington, D.C.",EST,Bruk Tesfamariam,US Citizen,Washington DC,EST,$100K,Yes,2023-10-02,2023-10-30,Cleared,N
+BI,"Cleveland, OH",EST,Yonas Kasahun Badeg,GC,"Cleveland, OH",EST,$95K,Yes,2023-10-03,2023-10-31,Cleared,N
+BI,"Annapolis, MD",EST,Teferi Tobo,GC,Rockvile MD,EST,$100K,Yes,2023-10-04,2023-11-01,Cleared,Y
+BI,"Seattle, WA",PST,Antoine Bokony,US Citizen,"Seattle, WA",PST,$105K,No,2023-10-05,2023-11-02,Cleared,N
+BI,"Seattle, WA",PST,Mulat Gashaw Yihun,US Citizen,"Bellevue, WA",PST,$110K,No,2023-10-09,2023-11-06,Cleared,Y
+BI,"Charlotte, NC",EST,Kidanu Belay Shume,GC,"Charlotte, NC",EST,$110k,Yes,2023-10-10,2023-11-07,Cleared,Y
+BI,"Seattle, WA",PST,Addisu Bahta,US Citizen,"Edmonds, WA",PST,$100K,No,2023-10-11,2023-11-08,Cleared,N
+BI,"Seattle, WA",PST,Adamu Teshome Beyene,GC,"Bellevue, WA",PST,$100K,Yes,2023-10-12,2023-11-09,Cleared,N
+BI,"Seattle, WA",PST,Seble Woldetsadike,GC,"Renton, WA",PST,$100K,No,2023-10-16,2023-11-13,Cleared,Y
+BI,"Seattle, WA",PST,Berhanu Kacha,GC,"Seattle, WA",PST,$95K,No,2023-10-17,2023-11-14,Cleared,N
+BI,"Dallas, TX",CST,Anvar Khodzhaev,US Citizen,"Houston, TX",CST,$130K,Local Only,2023-10-18,2023-11-15,Cleared,Y
+BI,"Austin, TX",CST,Maya Sundararajan,GC,"McKinney, TX",CST,$100K,Local Only,2023-10-19,2023-11-16,Cleared,Y
+Dot Net,"Redmond, WA",PST,Richard Dale Van Fossan,US Citizen,"Waldron, WA",PST,$100K,Local Only,2023-10-23,2023-11-20,Cleared,N
+Dot Net,"Redmond, WA",PST,BYUNG CHUL AN,US Citizen,"Seattle, WA",PST,$150K,Local Only,2023-10-24,2023-11-21,Cleared,Y
+Dot Net,"Redmond, WA",PST,Cyril O. Balonwu,US Citizen,WA,PST,$100K,Local Only,2023-10-25,2023-11-22,Cleared,N
+Dot Net,"Austin, TX",CST,Jeff Bramlett,US Citizen,"Austin, TX",CST,$140K,Yes,2023-10-26,2023-11-23,Cleared,Y
+Dot Net,"Austin, TX",CST,Gilbert Sauceda,US Citizen,"Austin, TX",CST,$120K,Yes,2023-10-30,2023-11-27,Cleared,Y
+Dot Net,"Houston, TX",CST,Anjanaa Parasuraman,H4 EAD,"Dallas, TX",CST,$115K,Local Only,2023-10-31,2023-11-28,Cleared,Y
+Dot Net,"Houston, TX",CST,Cesar Zamora,US Citizen,"Cypress, TX",CST,$135K,Local Only,2023-10-02,2023-11-20,Cleared,Y
+Dot Net,"Austin, TX",CST,Pradheebaa Srinivas,US Citizen,"Irving, Texas",CST,$120K,Local Only,2023-10-03,2023-11-02,Cleared,N
+Tester,"Atlanta, GA",EST,Harald Sundal,US Citizen,"Alpharetta, GA",EST,$140K,Local Only,2023-11-01,2023-11-29,Cleared,Y
+Tester,"Atlanta, GA",EST,Binny Mathew,US Citizen,"Lilburn, GA",EST,$130K,Local Only,2023-11-02,2023-11-30,Cleared,N
+Tester,"New York City, NY",EST,Hoshedar Mody,US Citizen,NY,EST,$175K,Yes,2023-11-06,2023-12-04,Cleared,Y
+Tester,NYC,EST,Brian Pavlinsky,US Citizen,"NYC, NY",EST,$145K,Local Only,2023-11-07,2023-12-05,Cleared,Y
+Tester,"New York City, NY",EST,Naser Samad Iqbal,US Citizen,"Queens, New York",EST,$110K,Yes,2023-11-08,2023-12-06,Cleared,Y
+Tester,"Baltimore, MD",EST,Vidyadhar,US Citizen,"Ellicott City, MD",EST,$100K,Yes,2023-11-09,2023-12-07,Cleared,Y
+Tester,"Raleigh, NC",EST,Imran H Shishir,US Citizen,Greensboro NC,EST,$145K,Yes,2023-11-13,2023-12-11,Cleared,Y
+Tester,"Atlanta, GA",EST,Tulasi Vuyyuru,US Citizen,"Cumming, Georgia",EST,$100K,Yes,2023-11-14,2023-12-12,Cleared,N
+Tester,"Atlanta, GA",EST,Giri Mohan Racha,H1B,"Dunwoody, Georgia",EST,$120K,Yes,2023-11-15,2023-12-13,Cleared,Y
+Tester,"Little Rock, AR",CST,Sakunthala Matlapudi,H4 EAD,"Bentonville ,AR",CST,$130K,Open,2023-11-16,2023-12-14,Cleared,Y
+Tester,"Sain Louis, MO",CST,Afsana Jamal,US Citizen,"Saint Louis, MO",CST,$110K,Local Only,2023-11-20,2023-12-18,Cleared,N
+Tester,"Dallas, TX",CST,Ram Chittoor,H1B,"Dallas, TX",CST,$150K,Yes,2023-11-21,2023-12-19,Cleared,Y
+Tester,"Virginia Beach, VA",EST,Pradeep Dhital,US Citizen,"Norfolk, Virginia",EST,$120K,Yes,2023-11-22,2023-12-20,Cleared,N
+Tester,"Plano, TX",CST,AIMAN SHAUKAT,H1B,"Plano, TX 75025",CST,$130K,Open,2023-11-23,2023-12-21,Cleared,Y
+Tester,"Toronto, ON",EST,Thava Ganesh Gopalakrishnan,US Citizen,"Toronto, Canada",EST,$140K,Open,2023-11-27,2023-12-25,Cleared,N
+Tester,"Chicago, IL",CST,Carlos S Larios,US Citizen,"Rosemont, Illinois",CST,$130K,Open,2023-11-28,2023-12-26,Cleared,Y
+Tester,"Phoenix, AZ",MST,"Harold ""Harry"" Melamed",US Citizen,"Tempe, Arizona",MST,$135K,Open,2023-11-29,2023-12-27,Cleared,Y
+Oracle EBS,"New York City, NY",EST,PAPIA DAS,H1B,"New York City ,NY",EST,$145K,Yes,2023-11-01,2023-11-29,Cleared,Y
+ETL,"Richmond, VA",EST,Roy H Prasad,GC,"Henrico, VA",EST,$135K,Yes,2023-11-02,2023-11-30,Cleared,Y
+ETL,"Dallas, TX",CST,Sam Guo,US Citizen,"Richardson, TX",CST,$120K,No,2023-11-06,2023-12-02,Cleared,Y
+ETL,"Charlotte, NC",EST,Paul Ash,US Citizen,"Charlotte, NC",EST,$125K,Yes,2023-11-07,2023-12-03,Cleared,Y
+ETL,"Toronto, ON",EST,Ilyas Khan,GC,"Mississauga, Ontario, Canada",EST,$120K,No,2023-11-08,2023-12-04,Cleared,Y
+ETL,"Austin, TX",CST,Sumair Sajid,GC,"Austin, Texas",CST,$140K,Yes,2023-11-09,2023-12-05,Cleared,Y
+ETL,"Atlanta, GA",EST,HUMA ASMI,H4 EAD,"Marietta, GA",EST,$110K,No,2023-11-13,2023-12-09,Cleared,Y
+Cloud Engineer,"Houston, TX",CST,LAWRENCE SANUSI,US Citizen,"Houston, Texas",CST,$145K,Yes,2023-11-14,2023-12-10,Cleared,Y
+ETL,"Los Angeles, CA",PST,Muhammad Sabir,H1B,California,PST,$110K,Yes,2023-11-15,2023-12-11,Cleared,N
+BI,"Dallas, TX",CST,Santosh Tripathi,GC,"Dallas, TX",CST,$120K,No,2023-11-16,2023-12-12,Cleared,Y
+BI,"Chicago, IL",CST,MOHAMMED ZULFIQUAR,H1B,Illinoise,CST,$115K,Yes,2023-11-20,2023-12-16,Cleared,Y
+Cloud Engineer,"Houston, TX",CST,Tim Mardis,US Citizen,"Houston, TX",CST,$150K,Yes,2023-11-21,2023-12-17,Cleared,Y
+DevOps Engineer,"Dallas, TX",CST,Francis Ayiku,US Citizen,"Melissa Tx, 75454",CST,$120K,No,2023-12-01,2024-01-15,Cleared,Y
+DevOps Engineer,"Las Vegas, NV",PST,Royal C. Jackson Jr,US Citizen,"Las Vegas, NV",PST,$145K,Yes,2023-12-05,2024-01-15,Cleared,Y
+DevOps Engineer,"San Jose, CA",PST,Henry Kendall,US Citizen,"Santa Clara, CA",PST,$135K,Yes,2023-12-06,2024-01-22,Cleared,Y
+DevOps Engineer,"Dallas, TX",CST,Anthony Tran,US Citizen,"Katy, TX 77494",CST,$120K,Local Only,2023-12-07,2024-01-23,Cleared,Y
+DevOps Engineer,NJ,EST,Sirisha Challa,GC,"Edison,NJ",EST,$125K,Local Only,2023-12-11,2024-02-01,Cleared,Y
+BI,NYC,EST,Alkesh Shah,US Citizen,"Trenton, NJ",EST,$115K,Local Only,2023-12-12,2024-02-01,Cleared,N
+Python,"San Francisco, CA",PST,Andreas Falley,US Citizen,San Francisco CA,PST,$140K,Yes,2023-12-13,2024-02-20,Cleared,Y
+Python,"San Jose, CA",PST,JOHN CHAU,US Citizen,"San Jose, California",PST,$145,Open,2023-12-14,2024-02-21,Cleared,Y
+ETL,"Dallas, TX",CST,Tapasi Mohanty,GC,"McKinney, TX",CST,$90K,Yes,2023-12-18,2024-02-25,Cleared,N
+Oracle EBS,"Houston, TX",CST,Sridhar Mysula,H1B,"Houston, TX",CST,$180K,Open,2023-12-19,2024-02-26,Cleared,Y
+Python,"Denver, CO",MST,Bala krishna,US Citizen,"Denver, CO",MST,$130K,Open,2023-12-20,2024-02-20,Cleared,Y
+BI,NJ,EST,Shailaja Pulipalukula,GC,"Princeton, New Jersey,",EST,$135K,Local Only,2023-12-21,2024-02-28,Cleared,Y
+BI,"New York City, NY",EST,Sham,US Citizen,NJ/NY,EST,$150K,No,2023-12-26,2024-03-04,Cleared,Y
+BI,NJ,EST,Rajesh Varma Datla,GC,"Piscataway, New Jersey",EST,$155K,No,2023-12-27,2024-02-23,Cleared,Y
+Python,"Tampa, FL",EST,Sushma Chippa,H4 EAD,"Raleigh-Durham, North Carolina",EST,$95K,Yes,2023-12-28,2024-01-24,Cleared,N
+Data Scientist,"Richmond, VA",EST,Valeri Kalmykov,US Citizen,Annandale VA,EST,$100K,Open,2023-12-29,2024-01-29,Cleared,Y
+ETL,"Dallas, TX",CST,Saravanakumar Panneerselvam,GC,NY,EST,$150K,Open,2023-12-28,2024-03-04,Cleared,Y
