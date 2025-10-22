@@ -19,7 +19,6 @@ def load_corpus(file_path):
 lines, corpus_tokens = load_corpus(r"D:/IT/HK1_Y4/Class/ML/NLP/english_sample.txt")
 
 
-
 eng_dict = set(corpus_tokens)
 
 def build_unigram(corpus_tokens):
